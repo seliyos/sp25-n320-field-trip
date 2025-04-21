@@ -15,7 +15,8 @@ For this project, I chose to focus on **Native American woven baskets**. These h
 
 ### Design Choices
 
-- **Inspiration**: The visual design of the website will be inspired by earthy, natural colors and textures from Native American art. 
+- **Inspiration**: The visual design of the website will be inspired by earthy, natural colors and textures from Native American art.
+- I’m referencing museum sites like the https://americanindian.si.edu/
 - **Color Palette**:
   - Earth brown: background
   - Clay red and muted orange: for highlights and interactive buttons
